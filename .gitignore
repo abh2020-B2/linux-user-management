@@ -1,0 +1,11 @@
+# Log files
+Log/*.log
+
+# Backup files
+Backup/*.bak
+
+# VS Code
+.vscode/
+
+# Swap files
+*.swp
