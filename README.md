@@ -1,5 +1,11 @@
 ## Main Menu
 
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 ![Main Menu](Images/Images/main-menu.png)
 
 # Linux User Management Toolkit
