@@ -1,6 +1,6 @@
 ## Main Menu
 
-![Main Menu](Images/linux-managmenttools.png)
+![Main Menu](Images/Images/main-menu.png)
 
 # Linux User Management Toolkit
 
@@ -106,21 +106,10 @@ sudo ./user-manager.sh
 
 ### منوی اصلی
 
-![Main Menu](images/main-menu.png)
+![Main Menu](Images/main-menu.png)
 
 ---
 
-### ایجاد کاربر
-
-![Create User](images/create-user.png)
-
----
-
-### نمایش کاربران
-
-![List Users](images/list-users.png)
-
----
 
 ## دستورات استفاده شده
 
